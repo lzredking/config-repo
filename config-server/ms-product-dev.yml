@@ -1,6 +1,1 @@
----
-spring:
-  key2: "value2"
-  key1: "value12"
-test:
-  key: "com.xx.nn.123"
+--- {}
