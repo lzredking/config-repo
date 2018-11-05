@@ -1,9 +1,6 @@
 ---
-cxvxcvsg:
-  sdf: "dfdf.dfdf"
-1111:
-  test:
-    key:
-      m: "value123"
-  aaa:
-    vvvv: "bbbccccc"
+test:
+  key:
+    m: "value123"
+aaa:
+  vvvv: "bbbccccc"
